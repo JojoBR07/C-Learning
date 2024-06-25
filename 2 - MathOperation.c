@@ -1,4 +1,4 @@
-//Escreva um algoritmo em C que leia um n˙mero e exiba na tela: o n˙mero lido, seu antecessor e seu sucessor. Use mensagens que deixe claro para o usu·rio o que est· sendo exibido.
+//Escreva um algoritmo em C que leia um n√∫mero e exiba na tela: o n√∫mero lido, seu antecessor e seu sucessor. Use mensagens que deixe claro para o usu√°rio o que est√° sendo exibido.
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -25,7 +25,7 @@ int main(){
  printf("Diferenca: %f\n",resultado);
 
   resultado = n1/n2;
- printf("Divis„o: %f\n",resultado);
+ printf("Divis√£o: %f\n",resultado);
 
     getch();
     return 0;
